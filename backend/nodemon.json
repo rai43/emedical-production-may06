@@ -1,0 +1,8 @@
+{
+	"env": {
+		"DB_USER": "rai43",
+		"DB_PASSWORD": "pass1234",
+		"DB_NAME": "health-insurance",
+		"JWT_KEY": "supersecret_dont_share"
+	}
+}
